@@ -66,7 +66,8 @@ enum Database {
                     Field.ANONYMOUS_VPN,
                     Field.ANONYMOUS,
                     Field.PUBLIC_PROXY,
-                    Field.RESIDENTIAL_PROXY
+                    Field.RESIDENTIAL_PROXY,
+                    Field.NETWORK
             )
     ),
     ENTERPRISE(
